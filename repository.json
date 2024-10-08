@@ -3,7 +3,7 @@
   "description": "Library for Pmailer IMAP commands handling",
   "owner": "Tuvi",
   "type": "library",
-  "status": "released",
+  "status": "archived",
   "tags": [],
   "launchpad": "Tuvi"
 }
